@@ -6,6 +6,14 @@ This project is an analysis of Airbnb listings in New York City for the year 201
 
 ## Tools Used:
 
+<p align="left">
+  <img width="60" height="40" src="download.png">
+</p>
+
+<p align="left">
+  <img width="60" height="40" src="images.png">
+</p>
+
 The analysis utilizes Python and various libraries for data manipulation, visualization, and analysis, including:
 
 ## Description:
