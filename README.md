@@ -68,11 +68,11 @@ Develop visualizations to present findings in a clear and interpretable manner.
 
 The Airbnb NYC 2019 Data Analysis project provides a comprehensive examination of the Airbnb rental market in New York City for the year 2019. By uncovering insights into pricing trends, neighborhood popularity, and influencing factors, this analysis aims to empower stakeholders with valuable information for making informed decisions in the NYC hospitality industry.
 
-## Author
 
 # Project:
 https://github.com/subhasish9ghosh5/-Boston-Housing-Data-Analysis/blob/main/BOSTONHousing1.ipynb%20-%20Colaboratory.pdf
 
--
+## Author
+
 Subhasish Ghosh - Data Analyst - Subhasish Ghosh - All work
 
