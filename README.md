@@ -22,7 +22,7 @@ The Airbnb NYC 2019 Data Analysis project aims to provide insights into the Airb
 
 Dataset:
 
-The project utilizes a dataset sourced from [source_name], containing information on Airbnb listings in New York City for the year 2019. The dataset includes details such as listing descriptions, prices, availability, neighborhood information, and more.
+The project containing information on Airbnb listings in New York City for the year 2019. The dataset includes details such as listing descriptions, prices, availability, neighborhood information, and more.
 
 Objectives:
 
