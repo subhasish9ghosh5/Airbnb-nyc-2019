@@ -78,8 +78,7 @@ The Airbnb NYC 2019 Data Analysis project provides a comprehensive examination o
 
 
 # Project:
-https://github.com/subhasish9ghosh5/-Boston-Housing-Data-Analysis/blob/main/BOSTONHousing1.ipynb%20-%20Colaboratory.pdf
-
+[LINK](https://github.com/subhasish9ghosh5/Airbnb-nyc-2019/blob/main/Airnb.eda%20-%20Jupyter%20Notebook.pdf)
 ## Author
 
 Subhasish Ghosh - Data Analyst - Subhasish Ghosh - All work
